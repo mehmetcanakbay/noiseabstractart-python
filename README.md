@@ -23,6 +23,11 @@ https://github.com/mehmetcanakbay/noiseabstractart-python/assets/73856544/1a1345
 
 <img src="docs/examples/PackCirclesNoImage.png" width=400>
 
+### Dependencies
+OpenCV
+Pygame,
+NumPy,
+tqdm
 
 #### Copyright Notice of Pack Circle Image example
 
